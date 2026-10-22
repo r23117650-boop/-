@@ -1,0 +1,12 @@
+Image download status during package creation:
+{
+  "logo.png": {
+    "error": "HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /user-attachments/assets/d6a296b3-bb69-4113-94ea-2b87d152da41 (Caused by NameResolutionError(\"HTTPSConnection(host='github.com', port=443): Failed to resolve 'github.com' ([Errno -3] Temporary failure in name resolution)\"))"
+  },
+  "cover.png": {
+    "error": "HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /user-attachments/assets/350c8b63-c782-4167-8742-4ca9eb34b6d6 (Caused by NameResolutionError(\"HTTPSConnection(host='github.com', port=443): Failed to resolve 'github.com' ([Errno -3] Temporary failure in name resolution)\"))"
+  },
+  "committee.png": {
+    "error": "HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /user-attachments/assets/2917c191-e934-48fe-b68b-2e5f6f930cca (Caused by NameResolutionError(\"HTTPSConnection(host='github.com', port=443): Failed to resolve 'github.com' ([Errno -3] Temporary failure in name resolution)\"))"
+  }
+}

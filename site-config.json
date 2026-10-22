@@ -1,0 +1,25 @@
+{
+  "name": "স্বপ্নসন্ধানী সমাজকল্যাণ ফাউন্ডেশন",
+  "tagline": "আমরা হলে সচেতন, সমাজের হবে উন্নয়ন।",
+  "goal": "একটি মানবিক, শিক্ষিত, সচেতন ও সমৃদ্ধ সমাজ গঠন।",
+  "activities": [
+    "শিক্ষা সহায়তা",
+    "স্বাস্থ্যসেবা",
+    "মানবিক সহায়তা",
+    "পরিবেশ সংরক্ষণ",
+    "মাদকবিরোধী প্রচার",
+    "সাংস্কৃতিক কার্যক্রম"
+  ],
+  "pledge": "সততা, মানবিকতা, স্বচ্ছতা ও স্বেচ্ছাসেবার মাধ্যমে সমাজের উন্নয়ন।",
+  "facebook": "https://www.facebook.com/profile.php?id=61572786091822",
+  "whatsapp": "01717715712",
+  "email": "swapnosandhani2025@gmail.com",
+  "images": {
+    "logo": "assets/logo.png",
+    "cover": "assets/cover.png",
+    "committee": "assets/committee.png",
+    "logoFallback": "https://github.com/user-attachments/assets/d6a296b3-bb69-4113-94ea-2b87d152da41",
+    "coverFallback": "https://github.com/user-attachments/assets/350c8b63-c782-4167-8742-4ca9eb34b6d6",
+    "committeeFallback": "https://github.com/user-attachments/assets/2917c191-e934-48fe-b68b-2e5f6f930cca"
+  }
+}
